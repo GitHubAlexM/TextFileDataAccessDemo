@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2017\Projects\TextFileDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\TextFileDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\alex\documents\visual studio 2017\Projects\TextFileDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\alex\documents\visual studio 2017\Projects\TextFileDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\TextFileDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\alex\documents\visual studio 2017\Projects\TextFileDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
